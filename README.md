@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is King Davies
+I'm a passionate web2/web3 frontend developer and an open source contributor Welcome to my GitHub profile!
+
+
 ===================================================================================================================================
 ![MasterHead](https://soject.com/wp-content/uploads/2021/02/EzgdmaCQuT84bgDL4fhXZS.jpg)
 
-I'm a passionate web2/web3 frontend developer and an open source contributor Welcome to my GitHub profile!
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hicode-dev" alt="hicode-dev" /></a> </p>
