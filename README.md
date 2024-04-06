@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is King Davies
+===================================================================================================================================
 I'm a passionate web2/web3 frontend developer and an open source contributor Welcome to my GitHub profile!
 
-
-===================================================================================================================================
 ![MasterHead](https://soject.com/wp-content/uploads/2021/02/EzgdmaCQuT84bgDL4fhXZS.jpg)
 
 
