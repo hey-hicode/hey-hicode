@@ -2,6 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 I'm a passionate web2/web3 frontend developer and an open source contributor Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hicode-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hicode-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hicode-dev" alt="hicode-dev" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shankhungryman" target="blank"><img src="https://img.shields.io/twitter/follow/shankhungryman?logo=twitter&style=for-the-badge" alt="shankhungryman" /></a> </p>
+<img src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0" align='right' width='400' alt="" />
 
 * ✉️  You can contact me at [kingdavies2021@gmail.com](mailto:kingdavies2021@gmail.com)
 * 🧠  I'm learning solidity, threejs,DSA
